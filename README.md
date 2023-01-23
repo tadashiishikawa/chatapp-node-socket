@@ -7,7 +7,7 @@ Built with:
 
 ### Get the code
 
-    git clone https://github.com/kaganecee/nodejs-chat-app.git
+    git clone https://github.com/tadashiishikawa/chatapp-node-socket.git
 
 ### Run
 
